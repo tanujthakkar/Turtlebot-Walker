@@ -28,7 +28,7 @@ Set TURTLEBOT3_MODEL environment variable as,
     source "your_colcon_workspace"/install/setup.bash
 ```
 
-### Running Walker
+### Running
 Running walker,
 ```
   ros2 launch turtlebot_walker walker.py
