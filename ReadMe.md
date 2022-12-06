@@ -43,3 +43,8 @@ Inspect rosbag using,
 ```
   ros2 bag info path_to_bag_directory
 ```
+
+Playback rosbag using,
+```
+  ros2 bag play path_to_bag_directory
+```
